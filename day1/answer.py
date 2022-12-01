@@ -1,6 +1,6 @@
 def read_file():
     data = []
-    for x in open("input1.txt"):
+    for x in open("input.txt"):
         data.append(x[:-1])
     return data
 
