@@ -16,5 +16,7 @@ def answer2():
 
 
 if __name__ == "__main__":
+    print("Answer 1:")
     answer1()
+    print("Answer 2:")
     answer2()
