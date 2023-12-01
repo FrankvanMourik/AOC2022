@@ -1,0 +1,1 @@
+import re;print(sum(bool(re.match("".join(f"(?=.*{s}\s))"for s in"iyr:20(1\d|20$ecl:(amb|blu|brn|gr[yn]|hzl|oth$hgt:(1([5-8]\d|9[0-3])cm|(59|6\d|7[0-6])in$eyr:20(2\d|30$hcl:(#[\da-f]{6}$byr:(19[2-9]\d|200[0-2]$pid:(\d{9}".split('$')),a+" ",re.DOTALL))for a in open("exercise7.txt").read().split('\n\n')))
